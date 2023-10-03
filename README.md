@@ -26,9 +26,9 @@ I'm from Malaysia but currently based in Leeds. I'm multilingual and can speak C
 
 __Skills__ :books:
 
-__Languages__: Python🐍, SQL🗄️, MATLAB:chart_with_upwards_trend:
+__Languages__: Python🐍, SQL🗄️, MATLAB:chart_with_upwards_trend:, C++⚙️
 
-__Libraries & Frameworks__: NumPy➗, Pandas🐼, Matplotlib📈, Scikit-Learn🧠
+__Libraries & Frameworks__: NumPy➗, Pandas🐼, Matplotlib📈, Scikit-Learn🧠, PyTorch🔥
 
 __Methods__: Data Analysis📊, Data Cleaning🧹, Machine Learning🤖, Data Visualization 📈, Algorithms📜, Automation👷‍♂️👷‍♀️
 
