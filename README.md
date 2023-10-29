@@ -34,7 +34,7 @@ __Methods__: Data Analysis📊, Data Cleaning🧹, Machine Learning🤖, Data Vi
 
 __Projects__ 💻
 
-[__Insurance Fraud Prediction Model__ ](https://github.com/JustinLzc/Insurance-Fraud-Predictive-Model)- Built a classifier using logistic regression to identify potential fraudulent insurance claims and evaluated performance.
+[__Insurance Fraud Prediction Model__ ](https://github.com/JustinLzc/Insurance-Fraud-Predictive-Model)- Built a classifier using logistic regression and random forest to identify potential fraudulent insurance claims and evaluated performance.
 
 [__EDA on Data Science Salaries__](https://github.com/JustinLzc/Data-Analysis) - Extensive exploratory data analysis using Python to uncover insights from ai-jobs.net survey data.
 
