@@ -18,7 +18,7 @@ Aspiring Data Scientist with a passion for problem-solving and cutting-edge AI
 
 __About Me__ :man_technologist:
 
-I'm a current MSc Artificial Intelligence student from the University of Leeds. I have a strong interest in leveraging data to build machine learning models and AI applications.
+I'm a current Postgraduate Artificial Intelligence student from the University of Leeds. I have a strong interest in leveraging data to build machine learning models and AI applications.
 
 My journey into tech started with self-directed learning in programming and data science. This led me to pursue graduate studies to deepen my skills. I'm motivated by tackling challenges through a combination of creativity and analytical thinking.
 
