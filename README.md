@@ -22,7 +22,7 @@ I'm a current Postgraduate Artificial Intelligence student from the University o
 
 My journey into tech started with self-directed learning in programming and data science. This led me to pursue graduate studies to deepen my skills. I'm motivated by tackling challenges through a combination of creativity and analytical thinking.
 
-I'm from Malaysia but currently based in Leeds. I'm multilingual and can speak Chinese, English, and Malay fluently.
+I'm multilingual and can speak Chinese, English, and Malay fluently.
 
 __Skills__ :books:
 
